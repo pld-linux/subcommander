@@ -2,7 +2,7 @@ Summary:	Qt based multiplatform subversion client
 Summary(pl):	Wieloplatformowy klient subversion oparty na Qt
 Name:		subcommander
 Version:	0.14.1
-Release:	0.1
+Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://subcommander.tigris.org/files/documents/1759/28737/%{name}-%{version}-src.tgz
