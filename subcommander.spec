@@ -1,5 +1,5 @@
 Summary:	Qt based multiplatform subversion client
-Summary(pl.UTF-8):   Wieloplatformowy klient subversion oparty na Qt
+Summary(pl.UTF-8):	Wieloplatformowy klient subversion oparty na Qt
 Name:		subcommander
 Version:	0.14.1
 Release:	1
@@ -23,7 +23,7 @@ Wieloplatformowy klient subversion oparty na Qt.
 
 %package -n submerge
 Summary:	submerge - visual diff and merge tool for text files
-Summary(pl.UTF-8):   submerge - wizualne narzędzie do porównywania i łączenia plików tekstowych
+Summary(pl.UTF-8):	submerge - wizualne narzędzie do porównywania i łączenia plików tekstowych
 Group:		X11/Applications
 
 %description -n submerge
