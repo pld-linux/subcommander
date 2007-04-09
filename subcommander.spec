@@ -9,7 +9,7 @@ Source0:	http://subcommander.tigris.org/files/documents/1759/28737/%{name}-%{ver
 # Source0-md5:	edc245c6be8f5bffd128df36e13d2692
 URL:		http://subcommander.tigris.org/
 BuildRequires:	boost-devel
-BuildRequires:	qt-devel >= 3.2
+BuildRequires:	qt-devel >= 6:3.2
 BuildRequires:	sed >= 4.0
 BuildRequires:	subversion-devel >= 1.2
 Requires:	submerge = %{version}-%{release}
